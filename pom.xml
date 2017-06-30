@@ -10,17 +10,17 @@
 		<dependency>
 			<groupId>com.ibatis</groupId>
 			<artifactId>ibatis-sqlmap</artifactId>
-			<version>2.1.5</version>
+			<version>2.1.0.565</version>
 		</dependency>
 		<dependency>
 			<groupId>com.ibatis</groupId>
 			<artifactId>ibatis-dao</artifactId>
-			<version>2.1.5</version>
+			<version>2.1.0.565</version>
 		</dependency>
 		<dependency>
 			<groupId>com.ibatis</groupId>
 			<artifactId>ibatis-common</artifactId>
-			<version>2.1.5</version>
+			<version>2.1.0.565</version>
 		</dependency>
 		<dependency>
 			<groupId>struts</groupId>
